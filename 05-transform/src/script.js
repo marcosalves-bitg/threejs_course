@@ -68,6 +68,8 @@ const cube3 = new THREE.Mesh(
 group.add(cube3);
 cube3.position.set(-1,-1,0);
 
+group.rotation.z = 2
+
 
 
 
